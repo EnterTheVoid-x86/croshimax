@@ -1,6 +1,6 @@
-pyOS
+Croshimax
 ====
-pyOS (prounounced "pious") is a python implemention of a psuedo unix-like operating system.
+Croshimax is a unix-like kernel source operating system made in python.
 
 Requirements
 -------------
@@ -35,5 +35,5 @@ Todo
 
 Setup
 -----
-- cd into the pyOS directory
-- run pyOS.py
+- cd into the croshimax directory
+- run croshimax.py
